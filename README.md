@@ -91,10 +91,10 @@ ai-ml-medicine-course-students/
 │   ├── README.md
 │   ├── presentations/              ← Lecture slides (.pptx)
 │   │   ├── Week1_Class1_Introduction_ML.pptx
-│   │   └── Week1_Class2_Mathematical_Encoding.pptx
+│   │   └── Week1_Class2_Tensors_NN.pptx
 │   └── notebooks/                  ← Lab exercises (.ipynb)
 │       ├── Week1_Class1_Introduction_and_Colab_Setup.ipynb
-│       └── Week1_Class2_PyTorch_Tensors.ipynb
+│       └── Week1_Class2_PyTorch_First_Neural_Network.ipynb
 │
 ├── 📁 week2/                       ← Coming soon
 ├── 📁 [weeks 3-14]/                ← Coming soon
