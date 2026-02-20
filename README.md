@@ -78,44 +78,9 @@ Welcome to AI in Medicine and Healthcare! This repository contains all the mater
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-ai-ml-medicine-course-students/
-│
-├── 📄 README.md                    ← You are here!
-├── 📄 COURSE_OUTLINE.md           ← Complete 14-week schedule
-├── 📄 QUICK_START.md              ← Fast navigation guide
-│
-├── 📁 week1/                       ← ✅ COMPLETE
-│   ├── README.md
-│   ├── presentations/              ← Lecture slides (.pptx)
-│   │   ├── Week1_Class1_Introduction_ML.pdf
-│   │   └── Week1_Class2_Tensors_NN.pdf
-│   └── notebooks/                  ← Lab exercises (.ipynb)
-│       ├── Week1_Class1_Introduction_and_Colab_Setup.ipynb
-│       └── Week1_Class2_PyTorch_First_Neural_Network.ipynb
-│
-├── 📁 week2/                       ← Coming soon
-├── 📁 [weeks 3-14]/                ← Coming soon
-│
-├── 📁 rubrics/                     ← Grading rubrics
-│   ├── README.md
-│   ├── PROJECT_RUBRICS.md          ← All project milestones
-│   └── LAB_RUBRICS.md              ← All lab rubrics
-│
-└── 📁 resources/                   ← Helpful guides
-    ├── Getting_Started.md          ← Setup instructions
-    └── FAQ.md                      ← Common questions
-```
-
-**Note:** Datasets load directly in notebooks - no downloads needed!
-
----
-
 ## 💡 How to Use This Repository
 
-### Option 1: Open Notebooks Directly in Colab (Recommended! ⭐)
+### Option 1: Open Notebooks Directly in Colab
 
 1. Click any **"Open in Colab"** badge above
 2. Notebook opens in your browser (Google Colab)
@@ -133,7 +98,7 @@ ai-ml-medicine-course-students/
 1. Navigate to the file you want (presentations or notebooks)
 2. Click the filename
 3. Click **"Download"** button (or "Raw" for notebooks)
-4. Open in PowerPoint or upload to Colab
+4. Upload to Colab
 
 ### Option 3: Download Everything (ZIP)
 
@@ -141,19 +106,6 @@ ai-ml-medicine-course-students/
 2. Select **"Download ZIP"**
 3. Extract on your computer
 4. Upload notebooks to Colab manually
-
----
-
-## 🎯 Learning Objectives
-
-By the end of Week 1, you will be able to:
-
-- ✅ Explain the 4-step ML pipeline (Data → Features → Training → Testing)
-- ✅ Understand why ML is needed for complex medical problems
-- ✅ Encode 6 types of medical data as tensors
-- ✅ Create and manipulate PyTorch tensors
-- ✅ Load and analyze medical datasets with pandas
-- ✅ Perform basic data visualization
 
 ---
 
@@ -221,7 +173,7 @@ See [Troubleshooting Section](resources/FAQ.md#troubleshooting-common-issues) in
 
 ## 🤝 Working in Groups
 
-You'll be assigned to groups of 3-4 students for:
+You'll be assigned to groups of 2-3 students for:
 - Weekly labs (Weeks 2-9)
 - Midterm project (Week 8)
 - Final project (Weeks 10-14)
